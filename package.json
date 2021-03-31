@@ -1,0 +1,24 @@
+{
+  "name": "employee-tracker",
+  "version": "1.0.0",
+  "description": "Employee Tracker",
+  "main": "employee-tracker.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NoorA1125/e-tracker.git"
+  },
+  "author": "Noor Abdikadir",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NoorA1125/e-tracker/issues"
+  },
+  "homepage": "https://github.com/NoorA1125/e-tracker#readme",
+  "dependencies": {
+    "inquirer": "^8.0.0",
+    "node": "^15.12.0",
+    "pkg.json": "^2.0.8"
+  }
+}

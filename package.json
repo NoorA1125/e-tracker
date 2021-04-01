@@ -4,7 +4,8 @@
   "description": "Employee Tracker",
   "main": "employee-tracker.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node employee-tracker.js"
   },
   "repository": {
     "type": "git",
@@ -20,5 +21,7 @@
     "inquirer": "^8.0.0",
     "node": "^15.12.0",
     "pkg.json": "^2.0.8"
-  }
+  },
+  "devDependencies": {},
+  "keywords": []
 }
